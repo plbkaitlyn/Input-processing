@@ -1,11 +1,3 @@
-/*
- Assignment 1
- Student name: Phuong Linh Bui
- Student number: 5624095
- Student login: plb070
- */
-
-
 #include <iostream>
 #include <fstream>
 #include <string>
